@@ -51,7 +51,7 @@ Instead of writing your GitHub password in `Password for 'https://user-example@g
 
 You may give it a name, change its expiration from 30 days to "No expiration" and check all boxes or check accoarding to your needed uses. 
 
-**BEWARE: don't ever give your token to other people and write it down, you can't retrieve it after generating it.**
+**BEWARE: Don't ever give your token to other people and write it down, you can't retrieve it after generating it.**
 
 > **personal note from author**: I use [Bitwarden](https://bitwarden.com/) to store my token and you may use this or other password manager to do the same. When working with a lot of repositories it may be helpful to have easy access to your token. Just be careful and be sure that you can trust where you are storing this kind of information.
 
