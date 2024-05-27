@@ -6,7 +6,7 @@ Git is a tool for file documenting. With Git, we can take snapshots of a file st
 
 Furthermore, Git is open source, this means that anybody can contribute with the code. Git itself doesn't need a host, but it's common to use [GitHub](github.com) or [GitLab](https://about.gitlab.com/). For this tutorial, we are going to mostly talk about GitHub.
 
-## Some Git language
+## Some Git jargon
 
 * **Clone** - Download hosted repository to your designated machine.
 * **add** - Trace the changes you made.
