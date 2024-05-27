@@ -147,3 +147,10 @@ git checkout python-tutorial
 git merge python-tutorial-debug
 ```
 This merges the `python-tutorial-debug` branch on top of the `python-tutorial` one.
+
+## More tools
+
+For a deeper understanding of Git tools, it's higly encouraged to read the [Git documentation](https://git-scm.com/doc). You may search for bootcamps in YouTube as well, there are a lot of them in different languages! Some examples are:
+
+* 🇧🇷 [CURSO COMPLETO DE GIT (2 HORAS E 30 MINUTOS)](https://www.youtube.com/watch?v=OuOb1_qADBQ&list=PLTMipe0kNtrs-2vkXFbrfrxXgOTlJpNJW)
+* 🇺🇸 [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
