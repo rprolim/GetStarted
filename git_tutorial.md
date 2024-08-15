@@ -49,7 +49,7 @@ Instead of writing your GitHub password in `Password for 'https://user-example@g
 4. Tokens (classic);
 5. Generate new token (classic).
 
-You may give it a name, change its expiration from 30 days to "No expiration" and check all boxes or check accoarding to your needed uses. 
+You may give it a name, change its expiration from 30 days to "No expiration" and check all boxes or check according to your needed uses. 
 
 **BEWARE: Don't ever give your token to other people and write it down, you can't retrieve it after generating it.**
 
