@@ -17,7 +17,7 @@ Furthermore, Git is open source, this means that anybody can contribute with the
 
 ## Installing Git
 
-You can check how to download Git in the [official website](https://git-scm.com/downloads). But if you are using a Linux distro, you may write the following commands on the terminal:
+You can check how to download Git in the [official website](https://git-scm.com/downloads). But if you are using a Linux Debian based distro, you may write the following commands on the terminal:
 ```
 sudo apt update
 ```
